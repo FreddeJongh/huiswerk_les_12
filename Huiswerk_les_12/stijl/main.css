@@ -1,0 +1,128 @@
+header{
+background-color: #AC16DE;
+width: 100%;
+height: 200px;
+}
+footer{
+background-color: #DE7016;
+width: 100%;
+height: 200px;
+}
+h1{
+color: #FFFFFF;
+}
+h2{
+color: #E69E10;
+}
+.Q11{
+background-color: #FFFF99;
+color: #FF0033;
+width: 300px;
+height: 180px;
+text-align: center;
+}
+.Q12{
+background-color: #FFCCCC;
+color: #8B0000;
+width: 300px;
+height: 180px;
+text-align: center;
+}
+.Q13{
+background-color: #CCFF33;
+color: #0066CC;
+width: 300px;
+height: 180px;
+text-align: center;
+}
+.Q14{
+background-color: #3399FF;
+color: #FFFFFF;
+width: 300px;
+height: 180px;
+text-align: center;
+}
+.Q21{
+background-color: #FFCCFF;
+color: #339900;
+width: 300px;
+height: 180px;
+text-align: center;
+}
+.Q22{
+background-color: #3366FF;
+color: #FFFFCC;
+width: 300px;
+height: 180px;
+text-align: center;
+}
+.Q23{
+background-color: #FAFAD2;
+color: #2F4F4F;
+width: 300px;
+height: 180px;
+text-align: center;
+}
+.Q24{
+background-color: #FF4500;
+color: #FFC0CB;
+width: 300px;
+height: 180px;
+text-align: center;
+}
+.Q31{
+background-color: #DCDCDC;
+color: #8B008B;
+width: 300px;
+height: 180px;
+text-align: center;
+}
+.Q32{
+background-color: #8B008B;
+color: #D8BFD8;
+width: 300px;
+height: 180px;
+text-align: center;
+}
+.Q33{
+background-color: #FFF0F5;
+color: #FF4500;
+width: 300px;
+height: 180px;
+text-align: center;
+}
+.Q34{
+background-color: #FFFF00;
+color: #FFFACD;
+width: 300px;
+height: 180px;
+text-align: center;
+}
+.Q41{
+background-color: #FFEBCD;
+color: #0000FF;
+width: 300px;
+height: 180px;
+text-align: center;
+}
+.Q42{
+background-color: #008080;
+color: #D3D3D3;
+width: 300px;
+height: 180px;
+text-align: center;
+}
+.Q43{
+background-color: #F0F8FF;
+color: #006400;
+width: 300px;
+height: 180px;
+text-align: center;
+}
+.Q44{
+background-color: #8B0000;
+color: #DCDCDC;
+width: 300px;
+height: 180px;
+text-align: center;
+}
